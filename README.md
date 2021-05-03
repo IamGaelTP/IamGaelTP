@@ -1,5 +1,5 @@
 # Hi there, I'm Gael Trevino - JeeTP 👋
-## I'm Student of Game Development and Programming at Coco School Mexico, Gameplay Developer and Videogames Lover!
+## I'm Student of Game Development and Programming Bachelor at Coco School Mexico, Gameplay Developer and Videogames Lover!
 
 - 😄 GamePlay Programmer
 
