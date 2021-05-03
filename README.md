@@ -10,14 +10,14 @@
 
 ### Connect with me
 <a href="https://www.youtube.com/channel/UCyJSToREsnEnYenRHEJbP7g" target="_blank">
-   <img alt="Qries" src="https://i.ibb.co/W2r8NNQ/youtube.png" width=40" height="40" target="_blank">
+   <img alt="Qries" src="https://i.ibb.co/W2r8NNQ/youtube.png" width=40" height="40">
 </a>
-<a href="https://www.instagram.com/gaeltrevinop/">
-   <img alt="Qries" src="https://i.ibb.co/QfgVxMf/instagram.png" width=40" height="40" target="_blank">
+<a href="https://www.instagram.com/gaeltrevinop/" target="_blank">
+   <img alt="Qries" src="https://i.ibb.co/QfgVxMf/instagram.png" width=40" height="40">
 </a>
-<a href="https://www.twitter.com/iamgaeltpp">
-   <img alt="Qries" src="https://i.ibb.co/tqSpfLc/twitter.png" width=40" height="40" target="_blank">
+<a href="https://www.twitter.com/iamgaeltpp" target="_blank">
+   <img alt="Qries" src="https://i.ibb.co/tqSpfLc/twitter.png" width=40" height="40">
 </a>
-<a href="https://www.linkedin.com/in/gael-trevino-prieto-324580182/">
-   <img alt="Qries" src="https://i.ibb.co/vk2H55Z/linkedin.png" width=40" height="40" target="_blank">
+<a href="https://www.linkedin.com/in/gael-trevino-prieto-324580182/" target="_blank">
+   <img alt="Qries" src="https://i.ibb.co/vk2H55Z/linkedin.png" width=40" height="40"">
 </a>
