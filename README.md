@@ -8,33 +8,33 @@
 
 #### SKILLS
 
-![](https://img.shields.io/badge/CODING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=053422)
+![](https://img.shields.io/badge/CODING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 <br>
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-<br>
-<br>
-![](https://img.shields.io/badge/GAME_ENGINES-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=053422)
-<br>
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Unreal_Engine-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Construct_3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
 <br>
 <br>
-![](https://img.shields.io/badge/TOOLS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=053422)
+![](https://img.shields.io/badge/GAME_ENGINES-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 <br>
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Lightroom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Camstasia_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Premiere-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Maya-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/HacknPlan-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Unreal_Engine-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Construct_3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+<br>
+<br>
+![](https://img.shields.io/badge/TOOLS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
+<br>
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Lightroom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Camstasia_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Premiere-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Maya-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
+![](https://img.shields.io/badge/HacknPlan-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E9E9E9)
 
 
 ### Connect with me
