@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other videogames creators
 - ⚡ Fun fact: I love to play chess and watch superheroes films.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgaeltp&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgaeltp&layout=compact&theme=radical)
 
 ### Connect with me
 <a href="https://www.youtube.com/channel/UCyJSToREsnEnYenRHEJbP7g" target="_blank">
