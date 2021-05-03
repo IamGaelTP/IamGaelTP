@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other videogames creators
 - ⚡ Fun fact: I love to play chess and watch superheroes films.
 
-<img align="right" src="https://i.ibb.co/4Kb5f2S/back3.jpg" width="400" height="500">
+<img align="right" src="https://i.ibb.co/4Kb5f2S/back3.jpg" width="350" height="450">
 
 #### SKILLS
 
