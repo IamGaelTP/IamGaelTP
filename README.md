@@ -8,12 +8,12 @@
 - 👯 I’m looking to collaborate with other videogames creators
 - ⚡ Fun fact: I love to play chess and watch superheroes films.
 
-## Connect with me
+### Connect with me
 
-[![Twitter][1.2]][1] [![Youtube][3.2]][3].
+[![Twitter][1.2]][1] [![Youtube][2.2]][2].
 <!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/iamgaeltpp
 [2]: https://www.linkedin.com/in/gael-trevino-prieto-324580182/
