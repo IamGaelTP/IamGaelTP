@@ -9,12 +9,15 @@
 - ⚡ Fun fact: I love to play chess and watch superheroes films.
 
 ### Connect with me
-
-[![Twitter][1.2]][1] [![Youtube][2.2]][2].
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/iamgaeltpp
-[2]: https://www.linkedin.com/in/gael-trevino-prieto-324580182/
-
+<a href="https://www.youtube.com/channel/UCyJSToREsnEnYenRHEJbP7g">
+   <img alt="Qries" src="https://i.ibb.co/W2r8NNQ/youtube.png" width=40" height="40">
+</a>
+<a href="https://www.instagram.com/gaeltrevinop/">
+   <img alt="Qries" src="https://i.ibb.co/QfgVxMf/instagram.png" width=40" height="40">
+</a>
+<a href="https://www.twitter.com/iamgaeltpp">
+   <img alt="Qries" src="https://i.ibb.co/tqSpfLc/twitter.png" width=40" height="40">
+</a>
+<a href="https://www.linkedin.com/in/gael-trevino-prieto-324580182/">
+   <img alt="Qries" src="https://i.ibb.co/vk2H55Z/linkedin.png" width=40" height="40">
+</a>
