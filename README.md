@@ -1,7 +1,7 @@
 ### Hi there, I'm Gael Trevino - JeeTP 👋</h2>
-## I'm Student of Game Development and Programming Bachelor at Coco School Mexico. Gameplay Programmer and Videogames Lover!
+## I'm Game Developer (+3y) graduated from Universal Arts School.
 
-- 🔭 I’m currently working on El Faro Academy and Euv Brands.
+- 🔭 I’m currently working on Euv Brands.
 - 🌱 I’m currently learning Artificial Intelligence, Machine Larning, and C++ from Scratch to Make Games - OpenGL, Ogre3D, SMFL!
 - 👯 I’m looking to collaborate with other videogames creators
 - ⚡ Fun fact: I love to play chess and watch superheroes films.
